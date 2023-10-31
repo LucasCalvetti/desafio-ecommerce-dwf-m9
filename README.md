@@ -1,6 +1,6 @@
 #Para detalles de cómo funciona la API ver documentacion de la app:
 
-#For details on how the API works, refer to the app's documentation.
+#For details on how the API works, refer to the app's documentation. (it is in spanish)
 
 https://documenter.getpostman.com/view/17225834/2s93eWysNw
 
